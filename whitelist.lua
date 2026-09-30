@@ -1,4 +1,5 @@
 local list = {
-  "namperfbg"
+  "namperfbg",
+  "23Max3241"
 }
 return list
